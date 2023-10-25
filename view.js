@@ -1,4 +1,4 @@
-import createBookPreview from './bookPreview';
+import createBookPreview from './bookPreview.js';
 
 class View {
   constructor() {
